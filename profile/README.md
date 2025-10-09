@@ -6,7 +6,7 @@ Here you'll find all the necessary resources, documentation, and code related to
 ### :mag: About Us
 
 **CVEalert.io** is a modern technology company with traditional values, focused on **vulnerability management solutions**.  
-We are committed to helping small businesses **passively detect** and **remediate** exploitable vulnerabilities with innovative, user-friendly web application.
+We help companies passively detect and remediate vulnerabilities with an innovative, user-friendly web application.
 
 ### :rocket: Getting Started
 
